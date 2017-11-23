@@ -1,0 +1,40 @@
+{
+    "name": "angular-extension-pack",
+    "displayName": "Angular Extension Pack",
+    "description": "List of extensions for Angular development",
+    "version": "0.0.1",
+    "publisher": "plinionaves",
+    "icon": "angular.png",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plinionaves/angular-extension-pack"
+    },
+    "author": "Plínio Naves <pliniopjn@hotmail.com> (https://github.com/plinionaves)",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Angular",
+        "Angular 2",
+        "Angular 4",
+        "Angular 5"
+    ],
+    "extensionDependencies": [ 
+        "johnpapa.Angular2", 
+        "PKief.material-icon-theme",
+        "Angular.ng-template",
+        "EditorConfig.EditorConfig",
+        "eg2.tslint",
+        "msjsdiag.debugger-for-chrome",
+        "CoenraadS.bracket-pair-colorizer",
+        "christian-kohler.path-intellisense",
+        "natewallace.angular2-inline",
+        "GregorBiswanger.json2ts",
+        "infinity1207.angular2-switcher",
+        "AngularDoc.angulardoc-vscode",
+        "rbbit.typescript-hero"
+    ]
+}
