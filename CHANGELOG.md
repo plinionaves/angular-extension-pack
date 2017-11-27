@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.2] - 2017-11-27
+### Fixed
+- correction in the engine version of vscode, from ^1.18.0 to ^1.12.0
+
 ## [0.0.1] - 2017-11-23
 ### Added
 - [Angular TypeScript Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)

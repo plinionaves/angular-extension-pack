@@ -2,11 +2,11 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "List of extensions for Angular development",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "plinionaves",
     "icon": "angular.png",
     "engines": {
-        "vscode": "^1.18.0"
+        "vscode": "^1.12.0"
     },
     "repository": {
         "type": "git",
