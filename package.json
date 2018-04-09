@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "List of extensions for Angular development",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "plinionaves",
     "icon": "angular.png",
     "galleryBanner": {
