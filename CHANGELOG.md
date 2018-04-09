@@ -4,7 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.0.3] - 2018-04-09
+### Added
+- keyword "Angular 6" for search in market place
+- galleryBanner.color for market place presentation
+
+### Fixed
+- releases order in CHANGELOG.md
 
 ## [0.0.2] - 2017-11-27
 ### Fixed
@@ -25,3 +31,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - [VS Code - Debugger for Chrome ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [vscode-tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+
+## [Unreleased]

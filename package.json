@@ -5,6 +5,9 @@
     "version": "0.0.2",
     "publisher": "plinionaves",
     "icon": "angular.png",
+    "galleryBanner": {
+        "color": "002d6d"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
@@ -20,7 +23,8 @@
         "Angular",
         "Angular 2",
         "Angular 4",
-        "Angular 5"
+        "Angular 5",
+        "Angular 6"
     ],
     "extensionDependencies": [ 
         "johnpapa.Angular2", 
