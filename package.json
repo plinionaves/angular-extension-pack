@@ -2,11 +2,12 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "List of extensions for Angular development",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "plinionaves",
     "icon": "angular.png",
     "galleryBanner": {
-        "color": "#002d6d"
+        "color": "#002d6d",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.12.0"
